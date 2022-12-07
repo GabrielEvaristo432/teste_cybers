@@ -1,0 +1,23 @@
+{
+  "name": "teste_cybers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielEvaristo432/teste_cybers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielEvaristo432/teste_cybers/issues"
+  },
+  "homepage": "https://github.com/GabrielEvaristo432/teste_cybers#readme",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
